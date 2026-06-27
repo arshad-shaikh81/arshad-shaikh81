@@ -58,12 +58,11 @@ I am a college student who loves learning new things, improving skills, and expl
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arshad-shaikh81&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arshad-shaikh81&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" />
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshad-shaikh81&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
 
 <br/>
@@ -71,7 +70,6 @@ I am a college student who loves learning new things, improving skills, and expl
 <img width="60%" src="https://streak-stats.demolab.com?user=arshad-shaikh81&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
 </div>
-
 ---
 
 ## ✨ Quick Facts
