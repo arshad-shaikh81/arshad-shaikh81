@@ -56,13 +56,14 @@ I am a college student who loves learning new things, improving skills, and expl
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arshad-shaikh81&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arshad-shaikh81&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true&include_all_commits=true" />
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshad-shaikh81&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
 
 <br/>
@@ -71,7 +72,6 @@ I am a college student who loves learning new things, improving skills, and expl
 
 </div>
 
----
 ---
 
 ## ✨ Quick Facts
