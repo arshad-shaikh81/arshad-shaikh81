@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Shaikh Arshad
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=UnderGraduate%2B+Student+%F0%9F%9B%A0;Build+5+Projects+%F0%9F%8E%93;10%2B+Technologies+%F0%9F%92%BB;DSA+Enthusiast+%F0%9F%A7%A9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=UnderGraduate+Student;Build+5+Projects+%F0%9F%8E%93;10%2B+Technologies+%F0%9F%92%BB;DSA+Enthusiast+%F0%9F%A7%A9)](https://git.io/typing-svg)
 
 ![Visitors](https://komarev.com/ghpvc/?username=arshad-shaikh81&label=Profile+Views&color=a78bfa&style=for-the-badge)
 
